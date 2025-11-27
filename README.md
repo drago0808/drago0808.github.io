@@ -9,7 +9,7 @@ Welcome to my project portfolio. Here, I document and compile data analysis proj
   Repo: https://github.com/drago0808/ice
 
 - **Estimation of Student and Employee Annual Commuting Mileage at Miami University**  
-  Post-stratified bootstrapping with a finite-population correction.  
+  Post-stratified bootstrapping with finite-population correction.  
   Repo: https://github.com/drago0808/emissions
 
 - **New York City Airbnb Listings Explorer**  
