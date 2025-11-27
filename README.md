@@ -1,6 +1,6 @@
 # Portfolio for Carter Vonderahe
 
-Welcome to my project portfolio. Below are selected analytics and statistical modeling projects.
+Welcome to my project portfolio. Below are selected data analytics and statistical modeling projects from my academic career.
 
 ### 📊 Projects
 
