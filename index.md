@@ -1,10 +1,7 @@
----
-layout: default
----
 
 # Carter Vonderahe
 
-Welcome to my project portfolio. Here, I document and compile data analysis projects from my academic career. Click on any of the repository links to view the project. test
+Welcome to my project portfolio. Here, I document and compile data analysis projects from my academic career. Click on any of the repository links to view the project.
 
 ### 📊 Projects
 
