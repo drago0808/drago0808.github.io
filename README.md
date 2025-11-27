@@ -1,4 +1,4 @@
-# Portfolio for Carter Vonderahe
+# Carter's Portfolio
 
 Welcome to my project portfolio. Here, I document and compile data analysis projects from my academic career.
 
