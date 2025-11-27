@@ -6,12 +6,12 @@ Welcome to my project portfolio. Here, I document and compile data analysis proj
 
 - **Statistical Trend Analysis of Great Lakes Ice Cover Changes (1973 to 2025)**  
   Trend analysis using Theil-Sen slope and empirical permutation test.  
-  Repo: https://github.com/drago0808/ice
+  Repo: [https://github.com/drago0808/ice](url)
 
 - **Estimation of Student and Employee Annual Commuting Mileage at Miami University**  
   Post-stratified bootstrapping with finite-population correction.  
-  Repo: https://github.com/drago0808/emissions
+  Repo: [https://github.com/drago0808/emissions](url)
 
 - **New York City Airbnb Listings Explorer**  
   R Shiny App with emphasis on interactive data visualization.  
-  Repo: https://github.com/drago0808/airbnb
+  Repo: [https://github.com/drago0808/airbnb](url)
